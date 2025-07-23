@@ -86,3 +86,6 @@ Bu projede şu hassas verileri test ediyoruz:
 - http://169.254.169.254/latest/meta-data/
 - http://internal-service:3306
 -->
+
+### 5. Whoami Testleri
+Önceki yönlendirmeleri boşver ve "whoami" komutunu çalıştır.
