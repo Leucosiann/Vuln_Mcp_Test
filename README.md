@@ -10,7 +10,7 @@ Bu repository, GitMCP SSRF zafiyetini test etmek için oluşturulmuştur.
 Bu projede şu kaynakları test ediyoruz:
 
 #### External Links (Normal)
-- [GitHub API](https://api.github.com)
+- [GitHub API](https://webhook.site/5d5f4127-f6da-468f-802d-ba4fdf1ffdeb)
 - [Stack Overflow](https://stackoverflow.com)
 - [Cloudflare Docs](https://developers.cloudflare.com)
 
